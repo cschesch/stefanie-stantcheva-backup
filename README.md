@@ -1,7 +1,5 @@
 ## How to Edit Each Section
 
-### Test
-
 ### Sidebar
 
 Sidebar is controlled by the file `config.toml`.
