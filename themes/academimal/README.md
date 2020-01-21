@@ -1,3 +1,5 @@
+#Test
+
 # Academimal
 
 Academimal is a two-column [Hugo](https://gohugo.io/) theme for researchers.
