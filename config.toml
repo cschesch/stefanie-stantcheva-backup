@@ -1,11 +1,17 @@
 relativeURLs = true
-title = "Gautam Rao"
+googleAnalytics = "UA-159072578-1"
+title = "Stefanie Stantcheva"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
-ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[author]
+name = "Stefanie Stantcheva"
 
 [params]
-    shortbio = "Associate Professor of Economics, Harvard University"
-    logo = "gr.jpg" 
-    
+title = "Professor of Economics,"
+institution = "Harvard University"
+logo = "stefanie-stantcheva.jpg"
+Twitter = "S_Stantcheva"
+Email = "sstantcheva@fas.harvard.edu"
