@@ -8,6 +8,13 @@ weight = 0
 
 This page features pieces based on my research and that of others and that are intended for a non-academic audience. 
 
+**2020:**
+
+*"Alberto Alesina: A Free-Spirited Economist"* Tribute to Alberto Alesina on VOXEU [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/alberto_alesina._a_free-spirited_economist_vox_cepr_policy_portal.pdf) [[Link]](https://voxeu.org/article/alberto-alesina-free-spirited-economist)
+
+[French] *"Economie Sociale du COVID19"* (2020) avec Clement Herman et Constantin Schesch [[PDF]](https://scholar.harvard.edu/files/stantcheva/files/note.pdf)
+
+
 **2019:**
 
 *"Why do we not Support more Redistribution? New Explanations from Economics Research"* (2019) in "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies" (eds. Dani Rodrik and Olivier Blanchard, MIT University Press, 2019) : [[Article]](https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf)
